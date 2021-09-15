@@ -13,5 +13,6 @@ Recently there was a project created by microsoft or github called github copilo
 For instance it is possible github copilot to write entire functions for you from a comment.
 <img src="./Github Copilot.gif" alt="My Project GIF">
 
-This ai also knows a lot Roblox! :) \n
+This ai also knows a lot Roblox! :)  
+
 <img src="./Roblox Copilot.gif" alt="My Project GIF">
