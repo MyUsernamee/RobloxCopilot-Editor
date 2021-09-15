@@ -11,4 +11,4 @@ This is a open source editor for a upcoming plugin for roblox. The idea is to ma
 Recently there was a project created by microsoft or github called github copilot. It uses some of the most cutting edge AI to act as the most cracked up auto complete ever.
 
 For instance it is possible github copilot to write entire functions for you from a comment.
-![screen-gif](./Github Copilot.gif)
+<img src="./Github Copilot.gif" alt="My Project GIF" width="500" height="600">
