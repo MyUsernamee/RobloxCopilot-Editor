@@ -15,3 +15,7 @@ For instance it is possible github copilot to write entire functions for you fro
 
 This ai also knows a lot Roblox! :)  
 <img src="./Roblox Copilot.gif" alt="My Project GIF">
+
+## Why not use the build in editor?
+
+The builtin editor isn't modifiable. :(
