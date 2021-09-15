@@ -18,6 +18,6 @@ This ai also knows a lot Roblox! :)
 
 So we will make a suped up auto complete for roblox! Roblox Copilot!
 
-## Why not use the build in editor?
+## Why not use the built in editor?
 
 The builtin editor isn't modifiable. :(
